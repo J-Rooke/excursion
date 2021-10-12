@@ -34,3 +34,7 @@ h2 {
     text-align: right;
     font-size: 21px;
 }
+
+a:visited {
+    color: aquamarine;
+}
